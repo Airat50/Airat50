@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center"> Hello! I'm Airat
+ <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<!--
-**Airat50/Airat50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+<h3 align="center">🚀 I am a junior frontend JS Developer</h3>
+<div align="center">
 
-Here are some ideas to get you started:
+### Languages and Tools🛠️
+![HTML](https://camo.githubusercontent.com/fc69f921ea80d2bbf77cddd242af81a3d4803165e4fddb187ad1cb635d20dc5a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3333333f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35) ![Dart](https://camo.githubusercontent.com/2b49b2bf90302cbf8d066b13547d85bf09ecef2ed4274f82b6605d9a847eb286/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3333333f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d626c7565) ![Sass](https://camo.githubusercontent.com/cfeaea98a9f65923317edbc557ecd2bb1117b59c21c8c357aa86299e44bf5a17/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d534153532d3333333f7374796c653d666f722d7468652d6261646765266c6f676f3d53415353) ![JavaScript](https://camo.githubusercontent.com/dd6e432fef460b39933185c21109e73b9796354526b0f394a32e224147db78ae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3333333f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074) ![Github](https://camo.githubusercontent.com/dbe1d254172d29511694c1a3b829b18b73a55e1a0465ead8a489476fe7c869bf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3333333f7374796c653d666f722d7468652d6261646765266c6f676f3d476974487562) ![Bootsrap](https://camo.githubusercontent.com/fd7907d480137423d21f558c743363875217b57edf11fc34ca4e8664314013c0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426f6f7473747261702d3333333f7374796c653d666f722d7468652d6261646765266c6f676f3d426f6f747374726170) ![Github](https://camo.githubusercontent.com/fa0a36f0aa11229ed1da99353b8f2ddadf70b236cd855ce4e77e3ef30ae56fc5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d47756c702d3333333f7374796c653d666f722d7468652d6261646765266c6f676f3d47756c70) ![GIT](https://camo.githubusercontent.com/ecd61797542a3c4aadde178e2f6aac49f125c95f1d7249d6972304b91a4da8b8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d3333333f7374796c653d666f722d7468652d6261646765266c6f676f3d476974)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Socials
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Airat231991) [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://https://vk.com/airat5023)
